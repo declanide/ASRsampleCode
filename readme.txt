@@ -10,5 +10,5 @@ AuroraEXE\		Perl with HTK		ASR system created using AURORA4
 
 .rar files can be uncompressed using 7-zip (free software)
 
-Please contact me at daipengjobs@gmail.com for the Aurora4 code.
+Please contact me at peng.dai.ca@ieee.org for the Aurora4 code.
 
